@@ -9,7 +9,7 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
     2. Using a linked random.txt file where you can also input your command
 
 **What Each Command Does**
-*concert-this*
+`<addr> *concert-this*
     Input the following in your command line: `node liri.js concert-this <artist/band name here>`. LIRI will return the following information from the Bands in Town API:
         * Venue Name
         * Venue Location
