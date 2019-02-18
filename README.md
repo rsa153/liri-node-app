@@ -11,12 +11,14 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
 **What Each Command Does**
 
 *concert-this*
+
     Input the following in your command line: `node liri.js concert-this <artist/band name here>`. LIRI will return the following information from the Bands in Town API:
         * Venue Name
         * Venue Location
         * Date of the Event (MM/DD/YYYY)
 
 *spotify-this-song*
+
     Input the following in your command line: `node liri.js spotify-this-song <song name here>`. LIRI will return the following information from the Spotify API:
         * Artist(s)
         * Song's name
@@ -25,6 +27,7 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
         * Note: *If no song is provided then you will be presented information for "The Sign" by Ace of Base.*
 
 *movie-this*
+
     Input the following in your command line: `node liri.js movie-this <movie name here>`. LIRI will return the following information from the OMDB API:
         * Movie Title
         * Movie Year
@@ -37,6 +40,7 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
         * Note: *If no movie is provided then you will be presented information for the move "Mr. Nobody".*
 
 *do-what-it-says*
+
     Input the following in your command line: `node liri.js do-what-it-says`. LIRI will access the linked random.txt file and read the "concert-this", "spotify-this-song", or "movie-this" command and the artist/song/movie name. LIRI will run the command referenced in the random.txt file. As an example, I've included the spotify-this-song command and the song "I Want it That Way" in the random.txt file.
 
 ## **To get started with LIRI**
