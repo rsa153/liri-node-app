@@ -27,7 +27,7 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
         * Song's name
         * Album Name
         * Preview link of the song
-        * Note: *If no song is provided then you will be presented information for "The Sign" by Ace of Base.*
+        * Note: If no song is provided then you will be presented information for "The Sign" by Ace of Base.
 
 *movie-this*
 
@@ -41,7 +41,7 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
         * Language of the movie.
         * Plot of the movie.
         * Actors in the movie.
-        * Note: *If no movie is provided then you will be presented information for the move "Mr. Nobody".*
+        * Note: If no movie is provided then you will be presented information for the move "Mr. Nobody".
 
 *do-what-it-says*
 
