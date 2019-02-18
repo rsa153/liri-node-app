@@ -51,8 +51,9 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
     I've included the spotify-this-song command and the song "I Want it That Way" in the random.txt file.
 
 ## **To get started with LIRI**
- In order to get started with this application, you must supply your own `.env` file and you most install node and all applicable node packages (axios, moment, dotenv) and APIs (Spotify). To use the spotify-this-song command, you must register for a Spotify API key. 
+In order to get started with this application, you must supply your own `.env` file and you most install node and all applicable node packages (axios, moment, dotenv) and APIs (Spotify). To use the spotify-this-song command, you must register for a Spotify API key. 
 
 ## **For more Information**
 In order to access this application from my portfolio, please visit: https://rsa153.github.io/bootstrap-portfolio/portfolio.html and click on the `LIRI Code App` link.
+
 In order to see how this application works, please visit: https://drive.google.com/file/d/15EFxMRrjNBzMLJdBFzatAakPIg3IEoj4/view
