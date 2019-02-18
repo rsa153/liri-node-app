@@ -4,6 +4,7 @@
 LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMDB APIs and returns information to the user in the terminal.
 
 **How to Search these APIs**
+
  You can use these commands to search these APIs in two ways:
     1. Using your command line by entering the following commands: concert-this, spotify-this-song, movie-this,
     2. Using a linked random.txt file where you can also input your command
@@ -44,9 +45,7 @@ LIRI uses the axios package to grab data from the Bands in Town, Spotify and OMD
     Input the following in your command line: `node liri.js do-what-it-says`. LIRI will access the linked random.txt file and read the "concert-this", "spotify-this-song", or "movie-this" command and the artist/song/movie name. LIRI will run the command referenced in the random.txt file. As an example, I've included the spotify-this-song command and the song "I Want it That Way" in the random.txt file.
 
 ## **To get started with LIRI**
- In order to get started with this application, you must supply your own `.env` file and you most install node and all applicable node packages (axios, moment, dotenv) and APIs (Spotify)
- 
- If someone wanted to clone your app from github and run it themselves, they would need to supply their own  for it to work.
+ In order to get started with this application, you must supply your own `.env` file and you most install node and all applicable node packages (axios, moment, dotenv) and APIs (Spotify). To use the spotify-this-song command, you must register for a Spotify API key. 
 
 ## **For more Information**
 In order to access this application from my portfolio, please visit: https://rsa153.github.io/bootstrap-portfolio/portfolio.html and click on the `LIRI Code App` link.
